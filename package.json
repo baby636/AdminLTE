@@ -128,7 +128,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.14.2",
-    "@babel/preset-env": "^7.14.2",
+    "@babel/preset-env": "^7.22.0",
     "@rollup/plugin-babel": "^5.3.0",
     "autoprefixer": "^10.2.5",
     "browser-sync": "^2.26.14",
@@ -148,7 +148,7 @@
     "postcss": "^8.2.15",
     "postcss-cli": "^8.3.1",
     "rollup": "^2.48.0",
-    "stylelint": "^13.13.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-twbs-bootstrap": "^2.2.0",
     "terser": "^5.7.0",
     "vnu-jar": "^21.4.9"
